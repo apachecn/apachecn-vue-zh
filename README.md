@@ -17,6 +17,13 @@
 +   [使用 Jest 测试 VueJS 组件](docs/test-vuejs-comp-jtest/SUMMARY.md)
 +   [VueJS2 设计模式最佳实践](docs/vue2-design-ptn-best-prac/SUMMARY.md)
 +   [Vue CLI3 快速启动指南](docs/vue-cli3-quick-start-guide/SUMMARY.md)
++   [构建 VueJS 表单](docs/build-form-vuejs/SUMMARY.md)
++   [VueJS2 Bootstrap4 Web 开发](docs/vuejs2-boots4-web-dev/SUMMARY.md)
++   [VueJS2 Web 开发项目](docs/vuejs2-web-dev-proj/SUMMARY.md)
++   [VueJS3 秘籍](docs/vuejs3-cb/SUMMARY.md)
++   [VueJS 快速启动指南](docs/vuejs-quick-start-guide/SUMMARY.md)
++   [VuePress 快速启动指南](docs/vuepress-quick-start-guide/SUMMARY.md)
++   [VueJS3 示例](docs/webjs3-exam/SUMMARY.md)
 
 ## 贡献指南
 
