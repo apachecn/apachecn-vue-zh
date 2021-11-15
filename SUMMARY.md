@@ -1,7 +1,7 @@
 +   [使用 GraphQL 构建 VueJS 应用](docs/build-vuejs-app-graphql/README.md)
     +   [零、前言](docs/build-vuejs-app-graphql/0.md)
     +   [一、数据绑定、事件和计算属性](docs/build-vuejs-app-graphql/1.md)
-    +   [二、组件、Mixin 和功能组件](docs/build-vuejs-app-graphql/2.md)
+    +   [二、组件、混合器和功能组件](docs/build-vuejs-app-graphql/2.md)
     +   [三、设置我们的聊天应用——AWS Amplify 环境和 GraphQL](docs/build-vuejs-app-graphql/3.md)
     +   [四、创建自定义应用组件和布局](docs/build-vuejs-app-graphql/4.md)
     +   [五、创建用户 Vuex 模块、页面和路由](docs/build-vuejs-app-graphql/5.md)
