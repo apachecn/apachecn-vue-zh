@@ -1,6 +1,6 @@
-Section 6: The Further Fields
+# 第六部分：进一步的领域
 
-在本节中，我们将了解使用 Nuxt 还可以做些什么。我们将学习如何在 Nuxt 中开发单页应用程序（SPA），使用 PHP 而不是 JavaScript 创建跨域和外部 API 数据平台来为我们的 Nuxt 应用程序提供数据，使用 Nuxt 开发实时应用程序，以及使用 Nuxt 使用（无头）CMS 和 GraphQL。
+在本节中，我们将了解使用 Nuxt 还可以做些什么。我们将学习如何在 Nuxt 中开发单页应用（SPA），使用 PHP 而不是 JavaScript 创建跨域和外部 API 数据平台来为我们的 Nuxt 应用提供数据，使用 Nuxt 开发实时应用，以及使用 Nuxt 使用（无头）CMS 和 GraphQL。
 
 本节包括以下章节：
 
