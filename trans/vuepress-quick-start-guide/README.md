@@ -1,4 +1,4 @@
-# Vuepress 快速启动指南
+# VuePress 快速启动指南
 
 > 原文：[VuePress Quick Start Guide](https://book4you.org/book/12032499/7f2a55)
 > 
