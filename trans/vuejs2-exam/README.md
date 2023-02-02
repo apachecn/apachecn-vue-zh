@@ -36,7 +36,7 @@
 
 ### Docker
 
-```
+```js
 docker pull apachecn0/apachecn-vue-zh
 docker run -tid -p <port>:80 apachecn0/apachecn-vue-zh
 # 访问 http://localhost:{port} 查看文档
@@ -44,7 +44,7 @@ docker run -tid -p <port>:80 apachecn0/apachecn-vue-zh
 
 ### PYPI
 
-```
+```js
 pip install apachecn-vue-zh
 apachecn-vue-zh <port>
 # 访问 http://localhost:{port} 查看文档
@@ -52,7 +52,7 @@ apachecn-vue-zh <port>
 
 ### NPM
 
-```
+```js
 npm install -g apachecn-vue-zh
 apachecn-vue-zh <port>
 # 访问 http://localhost:{port} 查看文档
